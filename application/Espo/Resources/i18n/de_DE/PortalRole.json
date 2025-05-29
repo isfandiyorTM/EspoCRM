@@ -1,0 +1,21 @@
+{
+  "links": {
+    "users": "Benutzer"
+  },
+  "labels": {
+    "Access": "Berechtigungen",
+    "Create PortalRole": "Portal Rolle erstellen",
+    "Scope Level": "Berechtigungsumfang",
+    "Field Level": "Feldebene"
+  },
+  "fields": {
+    "exportPermission": "Exportberechtigung",
+    "massUpdatePermission": "Massenänderungen Berechtigung",
+    "data": "Daten",
+    "fieldData": "Felddaten"
+  },
+  "tooltips": {
+    "exportPermission": "Definiert, ob Portalbenutzer Datensätze exportieren können.",
+    "massUpdatePermission": "Bestimmt, ob Portalbenutzer die Massenänderung von Datensätzen durchführen können."
+  }
+}

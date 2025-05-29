@@ -1,0 +1,32 @@
+[
+    {
+        "rows": [
+            [{"name": "companyLogo"}, {"name": "applicationName"}]
+        ]
+    },
+    {
+        "rows": [
+            [{"name": "theme"}, {"name": "userThemesDisabled"}],
+            [false, {"name": "avatarsDisabled"}]
+        ]
+    },
+    {
+        "rows": [
+            [{"name": "recordsPerPage"}, {"name": "recordsPerPageSelect"}],
+            [{"name": "recordsPerPageSmall"}, {"name": "recordsPerPageKanban"}],
+            [{"name": "displayListViewRecordCount"}, false]
+        ]
+    },
+    {
+        "rows": [
+            [{"name": "tabList"}, {"name": "quickCreateList"}],
+            [{"name": "scopeColorsDisabled"}, {"name": "tabColorsDisabled"}],
+            [{"name": "tabIconsDisabled"}, false]
+        ]
+    },
+    {
+        "rows": [
+            [{"name": "dashboardLayout", "fullWidth": true}]
+        ]
+    }
+]
