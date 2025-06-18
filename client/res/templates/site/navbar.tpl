@@ -1,4 +1,4 @@
-<div class="navbar navbar-inverse" role="navigation" style="background: linear-gradient(to right, #1e1e2f, #3e3e6a);">
+<div class="navbar navbar-inverse" role="navigation" style="background: linear-gradient(to left, #1e1e2f, #3e3e6a);">
     <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-action="toggleCollapsable">
             <span class="fas fa-bars"></span>
