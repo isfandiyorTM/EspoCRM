@@ -24,4 +24,9 @@
             "crossorigin": true
         }
     ]
+    "cssList": [
+        "__APPEND__",
+        "client/custom/css/custom.css"
+    ]
+
 }
