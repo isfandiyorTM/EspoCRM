@@ -24,7 +24,7 @@
                         data-toggle="dropdown"
                     {{/if}}
                 >
-                    <span class="short-label"{{#if label}} title="{{label}}"{{/if}}{{#if color}} style="color: {{color}}"{{/if}}>
+                    <span class="short-label"{{#if label}} title="CI/CD test"{{/if}}{{#if color}} style="color: {{color}}"{{/if}}>
                         {{#if iconClass}}
                         <span class="{{iconClass}}"></span>
                         {{else}}
